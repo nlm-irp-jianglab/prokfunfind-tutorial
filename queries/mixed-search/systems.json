@@ -1,0 +1,105 @@
+{
+  "name": "Equol Gene Cluster",
+  "components": [
+    {
+      "name": "Equol Production Pathway",
+      "presence": "essential",
+      "components": [
+        {
+          "queryID": "DZNR",
+          "description": "Daidzein reductase",
+          "presence": "essential"
+        },
+        {
+          "queryID": "DHDR",
+          "description": "Dihydrodaidzein reductase",
+          "presence": "essential"
+        },
+        {
+          "queryID": "THDR",
+          "description": "Tetrahydrodaidzein reductase",
+          "presence": "essential"
+        },
+        {
+          "queryID": "DDRC",
+          "description": "Dihydrodaidzein racemase",
+          "presence": "essential"
+        }
+      ]
+    },
+    {
+      "name": "fix electron transport",
+      "presence": "nonessential",
+      "components": [
+      {
+        "queryID": "FIXA",
+        "description": "fixA homolog",
+        "presence": "essential"
+      },
+      {
+        "queryID": "FIXB",
+        "description": "fixB homolog",
+        "presence": "essential"
+      },
+      {
+        "queryID": "FIXC",
+        "description": "fixC homolog",
+        "presence": "essential"
+      },
+      {
+        "queryID": "FIXX",
+        "description": "fixX homolog",
+        "presence": "essential"
+      }
+      ]
+    },
+    {
+      "name": "hydrogenase maturase",
+      "presence": "nonessential",
+      "components": [
+        {
+          "queryID": "NADO",
+          "descrition": "NADH Oxidoreductase homolog",
+          "presence": "nonessential"
+        },
+        {
+          "queryID": "HNDD",
+          "description": "Putative NADP-reducing hydrogenase subunit hndD",
+          "presence": "nonessential"
+        },
+        {
+          "queryID": "HYDE",
+          "description": "putative hydrogenase maturase gene hydE",
+          "presence": "essential"
+        },
+        {
+          "queryID": "HYDG",
+          "description": "putative hydrogenase maturase gene hydG",
+          "presence": "essential"
+        },
+        {
+          "queryID": "HYDF",
+          "description": "putative hydrogenase maturase gene hydF",
+          "presence": "essential"
+        }
+
+      ]
+    },
+    {
+      "name": "other genes",
+      "presence": "nonessential",
+      "components": [
+        {
+          "queryID": "HYPO",
+          "description": "Hypothetical Protein",
+          "presence": "nonessential"
+        },
+        {
+          "queryID": "DEVR",
+          "description": "Putative devR transcriptional regulator",
+          "presence": "essential"
+        }
+      ]
+    }
+  ]
+}

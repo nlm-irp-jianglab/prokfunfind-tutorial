@@ -1,0 +1,46 @@
+{
+    "name": "Pathway",
+    "components": [
+        {
+            "name": "Reaction1",
+            "presence": "essential",
+            "components": [
+                {
+                    "queryID": "enzyme1",
+                    "description": "Enzyme catalyzes Reaction1",
+                    "presence": "essential"
+                },
+                {
+                    "queryID": "enzyme1b",
+                    "description": "Regulator of enzyme1",
+                    "presence": "nonessential"
+                }
+            ]
+        },
+        {
+            "name": "Reaction2",
+            "presence": "nonessential",
+            "components": [
+              {
+                "name": "complexA",
+                "presence": "essential",
+                "components": [
+                  {
+                      "queryID": "enzyme2",
+                      "description": "Enzyme catalyzes Reaction2",
+                      "presence": "essential"
+                  }
+                ]
+              },
+              {
+                "queryID": "complexB",
+                "presence": "nonessential"
+              }
+
+                ]
+              }
+
+            ]
+        }
+    ]
+}

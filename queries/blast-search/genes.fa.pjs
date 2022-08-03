@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "genes.fa",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "genes.fa",
+  "number-of-letters": 5484,
+  "number-of-sequences": 15,
+  "last-updated": "2022-07-22T10:48:00",
+  "number-of-volumes": 1,
+  "bytes-total": 44092,
+  "bytes-to-cache": 5716,
+  "files": [
+    "genes.fa.pdb",
+    "genes.fa.phr",
+    "genes.fa.pin",
+    "genes.fa.pot",
+    "genes.fa.psq",
+    "genes.fa.ptf",
+    "genes.fa.pto"
+  ]
+}
