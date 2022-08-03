@@ -1,0 +1,131 @@
+Gene_Name	Cluster_ID	Functions
+GCF_011405655.1_00008	GCF_011405655.1_1:Cl_0	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_00009	GCF_011405655.1_1:Cl_0	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_00010	GCF_011405655.1_1:Cl_0	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_00025	GCF_011405655.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_00053	GCF_011405655.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_00074	GCF_011405655.1_1:Cl_1	Equol Gene Cluster/hydrogenase maturase/HYDF
+GCF_011405655.1_00075	GCF_011405655.1_1:Cl_1	Equol Gene Cluster/hydrogenase maturase/HYDG
+GCF_011405655.1_00076	GCF_011405655.1_1:Cl_1	Equol Gene Cluster/hydrogenase maturase/HYDE
+GCF_011405655.1_00077	GCF_011405655.1_1:Cl_1	Equol Gene Cluster/hydrogenase maturase/HNDD
+GCF_011405655.1_00078	GCF_011405655.1_1:Cl_1	Equol Gene Cluster/hydrogenase maturase/NADO
+GCF_011405655.1_00091	GCF_011405655.1_1:Cl_2	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_00092	GCF_011405655.1_1:Cl_2	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_00172	GCF_011405655.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/DDRC
+GCF_011405655.1_00239	GCF_011405655.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_00265	GCF_011405655.1_1:Cl_NA	Equol Gene Cluster/hydrogenase maturase/HNDD
+GCF_011405655.1_00274	GCF_011405655.1_1:Cl_3	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_00275	GCF_011405655.1_1:Cl_3	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_00352	GCF_011405655.1_1:Cl_4	Equol Gene Cluster/fix electron transport/FIXC
+GCF_011405655.1_00353	GCF_011405655.1_1:Cl_4	Equol Gene Cluster/fix electron transport/FIXX
+GCF_011405655.1_00363	GCF_011405655.1_1:Cl_5	Equol Gene Cluster/fix electron transport/FIXA
+GCF_011405655.1_00364	GCF_011405655.1_1:Cl_5	Equol Gene Cluster/fix electron transport/FIXB
+GCF_011405655.1_00367	GCF_011405655.1_1:Cl_5	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_00388	GCF_011405655.1_1:Cl_NA	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_00450	GCF_011405655.1_1:Cl_6	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_00451	GCF_011405655.1_1:Cl_6	Equol Gene Cluster/Equol Production Pathway/DZNR
+GCF_011405655.1_00473	GCF_011405655.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_00495	GCF_011405655.1_1:Cl_NA	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_00527	GCF_011405655.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_00616	GCF_011405655.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/DHDR
+GCF_011405655.1_00632	GCF_011405655.1_1:Cl_7	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_00633	GCF_011405655.1_1:Cl_7	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_00653	GCF_011405655.1_1:Cl_8	Equol Gene Cluster/Equol Production Pathway/DHDR
+GCF_011405655.1_00655	GCF_011405655.1_1:Cl_8	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_00656	GCF_011405655.1_1:Cl_8	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_00682	GCF_011405655.1_1:Cl_9	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_00686	GCF_011405655.1_1:Cl_9	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_00690	GCF_011405655.1_1:Cl_9	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_00691	GCF_011405655.1_1:Cl_9	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_00693	GCF_011405655.1_1:Cl_9	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_00709	GCF_011405655.1_1:Cl_10	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_00710	GCF_011405655.1_1:Cl_10	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_00741	GCF_011405655.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_00771	GCF_011405655.1_1:Cl_NA	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_00805	GCF_011405655.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_00856	GCF_011405655.1_1:Cl_11	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_00858	GCF_011405655.1_1:Cl_11	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_00868	GCF_011405655.1_1:Cl_NA	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_00880	GCF_011405655.1_1:Cl_12	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_00883	GCF_011405655.1_1:Cl_12	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_00887	GCF_011405655.1_1:Cl_12	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_00888	GCF_011405655.1_1:Cl_12	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_00945	GCF_011405655.1_1:Cl_13	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_00946	GCF_011405655.1_1:Cl_13	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_00973	GCF_011405655.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_01003	GCF_011405655.1_1:Cl_14	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_01004	GCF_011405655.1_1:Cl_14	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_01011	GCF_011405655.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/DHDR
+GCF_011405655.1_01092	GCF_011405655.1_1:Cl_NA	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_01230	GCF_011405655.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_01350	GCF_011405655.1_1:Cl_15	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_01351	GCF_011405655.1_1:Cl_15	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_01353	GCF_011405655.1_1:Cl_15	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_01354	GCF_011405655.1_1:Cl_15	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_01355	GCF_011405655.1_1:Cl_15	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_01366	GCF_011405655.1_1:Cl_16	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_01367	GCF_011405655.1_1:Cl_16	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_01368	GCF_011405655.1_1:Cl_16	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_01415	GCF_011405655.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_01423	GCF_011405655.1_1:Cl_17	Equol Gene Cluster/fix electron transport/FIXB
+GCF_011405655.1_01424	GCF_011405655.1_1:Cl_17	Equol Gene Cluster/fix electron transport/FIXA
+GCF_011405655.1_01428	GCF_011405655.1_1:Cl_17	Equol Gene Cluster/Equol Production Pathway/DZNR
+GCF_011405655.1_01477	GCF_011405655.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_01541	GCF_011405655.1_1:Cl_NA	Equol Gene Cluster/hydrogenase maturase/HYDF
+GCF_011405655.1_01597	GCF_011405655.1_1:Cl_NA	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_01612	GCF_011405655.1_1:Cl_NA	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_01656	GCF_011405655.1_1:Cl_18	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_01657	GCF_011405655.1_1:Cl_18	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_01660	GCF_011405655.1_1:Cl_18	Equol Gene Cluster/fix electron transport/FIXX
+GCF_011405655.1_01661	GCF_011405655.1_1:Cl_18	Equol Gene Cluster/fix electron transport/FIXC
+GCF_011405655.1_01662	GCF_011405655.1_1:Cl_18	Equol Gene Cluster/fix electron transport/FIXB
+GCF_011405655.1_01663	GCF_011405655.1_1:Cl_18	Equol Gene Cluster/fix electron transport/FIXA
+GCF_011405655.1_01680	GCF_011405655.1_1:Cl_19	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_01683	GCF_011405655.1_1:Cl_19	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_01684	GCF_011405655.1_1:Cl_19	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_01787	GCF_011405655.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_01814	GCF_011405655.1_1:Cl_20	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_01815	GCF_011405655.1_1:Cl_20	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_01820	GCF_011405655.1_1:Cl_NA	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_01853	GCF_011405655.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_01933	GCF_011405655.1_1:Cl_21	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_01934	GCF_011405655.1_1:Cl_21	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_01935	GCF_011405655.1_1:Cl_21	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_01936	GCF_011405655.1_1:Cl_21	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_01939	GCF_011405655.1_1:Cl_21	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_01943	GCF_011405655.1_1:Cl_21	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_01944	GCF_011405655.1_1:Cl_21	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_01957	GCF_011405655.1_1:Cl_NA	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_01988	GCF_011405655.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/DHDR
+GCF_011405655.1_02007	GCF_011405655.1_1:Cl_22	Equol Gene Cluster/hydrogenase maturase/HNDD
+GCF_011405655.1_02008	GCF_011405655.1_1:Cl_22	Equol Gene Cluster/hydrogenase maturase/HNDD
+GCF_011405655.1_02025	GCF_011405655.1_1:Cl_NA	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_02039	GCF_011405655.1_1:Cl_NA	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_02073	GCF_011405655.1_1:Cl_NA	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_02079	GCF_011405655.1_1:Cl_23	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_02080	GCF_011405655.1_1:Cl_23	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_02133	GCF_011405655.1_1:Cl_24	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_02134	GCF_011405655.1_1:Cl_24	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_02135	GCF_011405655.1_1:Cl_24	Equol Gene Cluster/Equol Production Pathway/DZNR
+GCF_011405655.1_02178	GCF_011405655.1_1:Cl_25	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_02179	GCF_011405655.1_1:Cl_25	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_02198	GCF_011405655.1_1:Cl_26	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_02199	GCF_011405655.1_1:Cl_26	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_02211	GCF_011405655.1_1:Cl_NA	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_02229	GCF_011405655.1_1:Cl_NA	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_02255	GCF_011405655.1_1:Cl_27	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_02256	GCF_011405655.1_1:Cl_27	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_02263	GCF_011405655.1_1:Cl_NA	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_02269	GCF_011405655.1_1:Cl_NA	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_02314	GCF_011405655.1_1:Cl_28	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_02315	GCF_011405655.1_1:Cl_28	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_02334	GCF_011405655.1_1:Cl_29	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_02335	GCF_011405655.1_1:Cl_29	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_02361	GCF_011405655.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_02416	GCF_011405655.1_1:Cl_30	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_02419	GCF_011405655.1_1:Cl_30	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_02420	GCF_011405655.1_1:Cl_30	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_02431	GCF_011405655.1_1:Cl_31	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_02432	GCF_011405655.1_1:Cl_31	Equol Gene Cluster/other genes/DEVR
+GCF_011405655.1_02434	GCF_011405655.1_1:Cl_31	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_011405655.1_02435	GCF_011405655.1_1:Cl_31	Equol Gene Cluster/Equol Production Pathway/THDR

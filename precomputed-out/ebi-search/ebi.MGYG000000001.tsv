@@ -1,0 +1,74 @@
+Gene_Name	Cluster_ID	Functions
+MGYG000000001_00022	MGYG000000001_1:Cl_NA	Equol Gene Cluster/hydrogenase maturase/HNDD
+MGYG000000001_00032	MGYG000000001_1:Cl_NA	Equol Gene Cluster/hydrogenase maturase/HYDF
+MGYG000000001_00145	MGYG000000001_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/DZNR
+MGYG000000001_00163	MGYG000000001_1:Cl_NA	Equol Gene Cluster/other genes/DEVR
+MGYG000000001_00220	MGYG000000001_2:Cl_NA	Equol Gene Cluster/hydrogenase maturase/HYDF
+MGYG000000001_00232	MGYG000000001_2:Cl_NA	Equol Gene Cluster/hydrogenase maturase/HYDE
+MGYG000000001_00239	MGYG000000001_2:Cl_NA	Equol Gene Cluster/hydrogenase maturase/HYDE
+MGYG000000001_00286	MGYG000000001_2:Cl_0	Equol Gene Cluster/Equol Production Pathway/DZNR
+MGYG000000001_00288	MGYG000000001_2:Cl_0	Equol Gene Cluster/hydrogenase maturase/HYDF
+MGYG000000001_00294	MGYG000000001_2:Cl_NA	Equol Gene Cluster/hydrogenase maturase/HYDE
+MGYG000000001_00350	MGYG000000001_3:Cl_NA	Equol Gene Cluster/hydrogenase maturase/HYDE
+MGYG000000001_00358	MGYG000000001_3:Cl_NA	Equol Gene Cluster/hydrogenase maturase/HYDE
+MGYG000000001_00388	MGYG000000001_3:Cl_NA	Equol Gene Cluster/hydrogenase maturase/HYDF
+MGYG000000001_00395	MGYG000000001_3:Cl_0	Equol Gene Cluster/Equol Production Pathway/DZNR
+MGYG000000001_00397	MGYG000000001_3:Cl_0	Equol Gene Cluster/Equol Production Pathway/DHDR
+MGYG000000001_00414	MGYG000000001_3:Cl_NA	Equol Gene Cluster/hydrogenase maturase/HYDE
+MGYG000000001_00448	MGYG000000001_4:Cl_NA	Equol Gene Cluster/Equol Production Pathway/DZNR
+MGYG000000001_00600	MGYG000000001_5:Cl_NA	Equol Gene Cluster/Equol Production Pathway/DHDR
+MGYG000000001_00846	MGYG000000001_8:Cl_NA	Equol Gene Cluster/hydrogenase maturase/HYDE
+MGYG000000001_00876	MGYG000000001_8:Cl_NA	Equol Gene Cluster/Equol Production Pathway/DZNR
+MGYG000000001_00941	MGYG000000001_9:Cl_0	Equol Gene Cluster/Equol Production Pathway/DZNR
+MGYG000000001_00942	MGYG000000001_9:Cl_0	Equol Gene Cluster/hydrogenase maturase/HYDF
+MGYG000000001_00992	MGYG000000001_10:Cl_NA	Equol Gene Cluster/Equol Production Pathway/DZNR
+MGYG000000001_00999	MGYG000000001_10:Cl_NA	Equol Gene Cluster/hydrogenase maturase/HYDE
+MGYG000000001_01059	MGYG000000001_11:Cl_NA	Equol Gene Cluster/other genes/DEVR
+MGYG000000001_01065	MGYG000000001_11:Cl_NA	Equol Gene Cluster/Equol Production Pathway/DZNR
+MGYG000000001_01165	MGYG000000001_12:Cl_NA	Equol Gene Cluster/Equol Production Pathway/DHDR
+MGYG000000001_01183	MGYG000000001_13:Cl_NA	Equol Gene Cluster/hydrogenase maturase/HYDF
+MGYG000000001_01190	MGYG000000001_13:Cl_NA	Equol Gene Cluster/other genes/DEVR
+MGYG000000001_01275	MGYG000000001_15:Cl_NA	Equol Gene Cluster/other genes/DEVR
+MGYG000000001_01306	MGYG000000001_15:Cl_NA	Equol Gene Cluster/hydrogenase maturase/HYDE
+MGYG000000001_01316	MGYG000000001_15:Cl_NA	Equol Gene Cluster/hydrogenase maturase/HYDF
+MGYG000000001_01332	MGYG000000001_16:Cl_NA	Equol Gene Cluster/hydrogenase maturase/HYDE
+MGYG000000001_01341	MGYG000000001_16:Cl_NA	Equol Gene Cluster/Equol Production Pathway/DZNR
+MGYG000000001_01351	MGYG000000001_16:Cl_NA	Equol Gene Cluster/hydrogenase maturase/HYDE
+MGYG000000001_01364	MGYG000000001_16:Cl_NA	Equol Gene Cluster/Equol Production Pathway/DZNR
+MGYG000000001_01385	MGYG000000001_17:Cl_NA	Equol Gene Cluster/Equol Production Pathway/DZNR
+MGYG000000001_01438	MGYG000000001_18:Cl_NA	Equol Gene Cluster/Equol Production Pathway/DZNR
+MGYG000000001_01522	MGYG000000001_19:Cl_NA	Equol Gene Cluster/hydrogenase maturase/HYDE
+MGYG000000001_01591	MGYG000000001_21:Cl_NA	Equol Gene Cluster/hydrogenase maturase/HYDE
+MGYG000000001_01621	MGYG000000001_22:Cl_NA	Equol Gene Cluster/Equol Production Pathway/DHDR
+MGYG000000001_01662	MGYG000000001_22:Cl_NA	Equol Gene Cluster/Equol Production Pathway/DZNR
+MGYG000000001_01666	MGYG000000001_23:Cl_NA	Equol Gene Cluster/hydrogenase maturase/HYDE
+MGYG000000001_01672	MGYG000000001_23:Cl_NA	Equol Gene Cluster/other genes/DEVR
+MGYG000000001_01695	MGYG000000001_23:Cl_NA	Equol Gene Cluster/hydrogenase maturase/HYDF
+MGYG000000001_01872	MGYG000000001_27:Cl_NA	Equol Gene Cluster/hydrogenase maturase/HYDE
+MGYG000000001_01919	MGYG000000001_28:Cl_NA	Equol Gene Cluster/Equol Production Pathway/DZNR
+MGYG000000001_01946	MGYG000000001_29:Cl_NA	Equol Gene Cluster/Equol Production Pathway/DHDR
+MGYG000000001_02011	MGYG000000001_30:Cl_NA	Equol Gene Cluster/Equol Production Pathway/DZNR
+MGYG000000001_02087	MGYG000000001_32:Cl_NA	Equol Gene Cluster/other genes/DEVR
+MGYG000000001_02103	MGYG000000001_33:Cl_NA	Equol Gene Cluster/hydrogenase maturase/HYDE
+MGYG000000001_02127	MGYG000000001_33:Cl_0	Equol Gene Cluster/hydrogenase maturase/NADO;Equol Gene Cluster/hydrogenase maturase/HNDD
+MGYG000000001_02153	MGYG000000001_34:Cl_NA	Equol Gene Cluster/hydrogenase maturase/HYDE
+MGYG000000001_02343	MGYG000000001_39:Cl_NA	Equol Gene Cluster/hydrogenase maturase/HYDE
+MGYG000000001_02414	MGYG000000001_42:Cl_0	Equol Gene Cluster/fix electron transport/FIXA
+MGYG000000001_02415	MGYG000000001_42:Cl_0	Equol Gene Cluster/fix electron transport/FIXB
+MGYG000000001_02482	MGYG000000001_44:Cl_0	Equol Gene Cluster/other genes/DEVR
+MGYG000000001_02485	MGYG000000001_44:Cl_0	Equol Gene Cluster/hydrogenase maturase/HYDG
+MGYG000000001_02512	MGYG000000001_46:Cl_NA	Equol Gene Cluster/hydrogenase maturase/HYDF
+MGYG000000001_02538	MGYG000000001_47:Cl_0	Equol Gene Cluster/Equol Production Pathway/DHDR
+MGYG000000001_02541	MGYG000000001_47:Cl_0	Equol Gene Cluster/other genes/DEVR
+MGYG000000001_02609	MGYG000000001_49:Cl_0	Equol Gene Cluster/hydrogenase maturase/HNDD
+MGYG000000001_02610	MGYG000000001_49:Cl_0	Equol Gene Cluster/hydrogenase maturase/NADO
+MGYG000000001_02644	MGYG000000001_51:Cl_NA	Equol Gene Cluster/Equol Production Pathway/DZNR
+MGYG000000001_02665	MGYG000000001_52:Cl_NA	Equol Gene Cluster/Equol Production Pathway/DZNR
+MGYG000000001_02849	MGYG000000001_61:Cl_NA	Equol Gene Cluster/Equol Production Pathway/DZNR
+MGYG000000001_02905	MGYG000000001_65:Cl_NA	Equol Gene Cluster/hydrogenase maturase/HYDF
+MGYG000000001_02921	MGYG000000001_66:Cl_NA	Equol Gene Cluster/Equol Production Pathway/DZNR
+MGYG000000001_02984	MGYG000000001_71:Cl_NA	Equol Gene Cluster/hydrogenase maturase/HYDE
+MGYG000000001_03109	MGYG000000001_84:Cl_NA	Equol Gene Cluster/hydrogenase maturase/HYDE
+MGYG000000001_03123	MGYG000000001_87:Cl_NA	Equol Gene Cluster/hydrogenase maturase/HYDE
+MGYG000000001_03154	MGYG000000001_91:Cl_NA	Equol Gene Cluster/Equol Production Pathway/DHDR
+MGYG000000001_03169	MGYG000000001_94:Cl_NA	Equol Gene Cluster/hydrogenase maturase/HYDE

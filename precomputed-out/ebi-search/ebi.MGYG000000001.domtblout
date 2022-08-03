@@ -1,0 +1,49 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DZNR                 -            643 MGYG000000001_00145  -            648  6.7e-109  352.4   1.8   1   1  2.5e-109  7.6e-109  352.2   1.8     4   642     2   647     1   648 0.89 -
+DEVR                 -            254 MGYG000000001_00163  -             91   3.3e-06   14.0   0.0   1   1   1.2e-06   3.5e-06   13.9   0.0   181   229    36    84    18    90 0.87 -
+DZNR                 -            643 MGYG000000001_00286  -            444   2.9e-09   23.2   9.7   1   1   1.8e-09   5.5e-09   22.3   9.7   385   609     2   255     1   292 0.67 -
+DZNR                 -            643 MGYG000000001_00395  -            442   1.2e-08   21.2   3.7   1   1   1.3e-08     4e-08   19.4   3.7   386   611     3   255     1   286 0.65 -
+DZNR                 -            643 MGYG000000001_00448  -            414   1.4e-08   20.9   1.5   1   1   1.2e-08   3.5e-08   19.6   1.5   385   525     4   172     1   274 0.51 -
+DZNR                 -            643 MGYG000000001_00876  -            640  4.2e-106  343.2   7.2   1   1  1.6e-106  4.7e-106  343.0   7.2     8   641     2   638     1   640 0.91 -
+DZNR                 -            643 MGYG000000001_00941  -            631   7.2e-06   12.0   1.0   1   2   3.3e-06   9.8e-06   11.6   0.3   385   409    10    34     6    39 0.88 -
+DZNR                 -            643 MGYG000000001_00941  -            631   7.2e-06   12.0   1.0   2   2      0.14      0.41   -3.7   0.0   479   511    50    82    44    90 0.82 -
+DZNR                 -            643 MGYG000000001_00992  -            419     5e-20   58.8   0.5   1   1     2e-20   6.1e-20   58.5   0.5   378   580   103   308    67   348 0.74 -
+DEVR                 -            254 MGYG000000001_01059  -            431   8.6e-07   15.9   0.0   1   1   5.9e-07   1.8e-06   14.9   0.0    65   115     5    54     3    70 0.88 -
+DZNR                 -            643 MGYG000000001_01065  -            308   2.3e-09   23.5   1.7   1   2      0.03     0.089   -1.5   0.0   231   258   109   136   103   155 0.85 -
+DZNR                 -            643 MGYG000000001_01065  -            308   2.3e-09   23.5   1.7   2   2   1.3e-09   3.8e-09   22.8   0.9   205   319   156   274   141   279 0.69 -
+DEVR                 -            254 MGYG000000001_01190  -            214   2.1e-31   96.6   0.3   1   1   8.8e-32   2.6e-31   96.3   0.3    37   251     3   210     1   212 0.92 -
+DEVR                 -            254 MGYG000000001_01275  -            270     4e-06   13.7   0.0   1   1   2.1e-06   6.3e-06   13.1   0.0    35   140     2   109     1   152 0.91 -
+DZNR                 -            643 MGYG000000001_01341  -            465   3.9e-12   32.7  10.5   1   2   2.4e-08   7.1e-08   18.6   0.6   385   426     2    44     1    59 0.87 -
+DZNR                 -            643 MGYG000000001_01341  -            465   3.9e-12   32.7  10.5   2   2   2.9e-08   8.6e-08   18.4   3.6   429   612   101   278    83   307 0.76 -
+DZNR                 -            643 MGYG000000001_01364  -            223   2.1e-06   13.7   3.0   1   1   3.3e-05   9.9e-05    8.2   3.0   438   484    38    84     1   217 0.72 -
+DZNR                 -            643 MGYG000000001_01385  -            542   2.4e-12   33.4   8.0   1   1   2.6e-12   7.9e-12   31.7   8.0   444   620    83   266     2   293 0.76 -
+DZNR                 -            643 MGYG000000001_01438  -            427   8.2e-07   15.1   0.5   1   1   4.5e-07   1.4e-06   14.4   0.5   386   423     4    48     2    65 0.78 -
+DZNR                 -            643 MGYG000000001_01662  -            403     4e-08   19.5   0.8   1   2   2.4e-08   7.2e-08   18.6   0.0   385   423     3    41     1    66 0.82 -
+DZNR                 -            643 MGYG000000001_01662  -            403     4e-08   19.5   0.8   2   2     0.045      0.14   -2.1   0.2   555   597   120   164    99   172 0.69 -
+DEVR                 -            254 MGYG000000001_01672  -            399   2.4e-06   14.5   0.0   1   1   1.9e-06   5.6e-06   13.3   0.0    38   148     1   112     1   121 0.85 -
+DZNR                 -            643 MGYG000000001_01919  -            470   1.1e-14   41.2   3.5   1   2   3.5e-15   1.1e-14   41.2   3.5   379   545   135   319   130   328 0.74 -
+DZNR                 -            643 MGYG000000001_01919  -            470   1.1e-14   41.2   3.5   2   2    0.0099      0.03    0.1   0.2   466   531   384   449   377   464 0.89 -
+DZNR                 -            643 MGYG000000001_02011  -            324   9.1e-09   21.6   0.1   1   2      0.15      0.45   -3.8   0.0    14    30     2    18     2    23 0.86 -
+DZNR                 -            643 MGYG000000001_02011  -            324   9.1e-09   21.6   0.1   2   2   5.2e-09   1.6e-08   20.8   0.1   193   331   111   236    62   248 0.76 -
+DEVR                 -            254 MGYG000000001_02087  -            238   2.8e-06   14.2   0.0   1   1   1.3e-06     4e-06   13.8   0.0    38   123     2    86     1   102 0.87 -
+DEVR                 -            254 MGYG000000001_02482  -            229   5.8e-06   13.2   0.0   1   1   2.6e-06   7.8e-06   12.8   0.0    36   137     3   101     1   118 0.81 -
+DEVR                 -            254 MGYG000000001_02541  -            199     1e-17   51.7   0.1   1   2      0.04      0.12   -0.9   0.0    85   125    44    83     3    99 0.64 -
+DEVR                 -            254 MGYG000000001_02541  -            199     1e-17   51.7   0.1   2   2     1e-17   3.1e-17   50.2   0.1   183   250   128   195   110   198 0.90 -
+DZNR                 -            643 MGYG000000001_02644  -            414     4e-08   19.4   1.6   1   2   1.3e-08     4e-08   19.4   1.6   385   607     4   263     1   272 0.57 -
+DZNR                 -            643 MGYG000000001_02644  -            414     4e-08   19.4   1.6   2   2     0.039      0.12   -1.9   0.0   540   589   338   388   303   400 0.72 -
+DZNR                 -            643 MGYG000000001_02665  -            302   3.5e-07   16.3   0.0   1   1   1.6e-07   4.9e-07   15.9   0.0   385   424     4    43     2    91 0.85 -
+DZNR                 -            643 MGYG000000001_02849  -            408   2.4e-09   23.5   1.1   1   2   1.1e-09   3.4e-09   23.0   0.2   384   418     2    37     1    62 0.88 -
+DZNR                 -            643 MGYG000000001_02849  -            408   2.4e-09   23.5   1.1   2   2     0.045      0.14   -2.1   0.0   562   599   126   165    93   170 0.63 -
+DZNR                 -            643 MGYG000000001_02921  -            423   3.5e-20   59.3   0.2   1   1   1.4e-20   4.3e-20   59.0   0.2   382   521   126   275   110   375 0.82 -
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      /Users/keith/Documents/NLM-Postdoc/GutFunDev/GutFun_Tutorial/prokfunfind-tutorial/genomes/MGYG000000001.faa
+# Target file:     /Users/keith/Documents/NLM-Postdoc/GutFunDev/GutFun_Tutorial/prokfunfind-tutorial/queries/ebi-search/query.hmm
+# Option settings: hmmscan -o /Users/keith/Documents/NLM-Postdoc/GutFunDev/GutFun_Tutorial/prokfunfind-tutorial/out/ebi-search/ebi.MGYG000000001.out --tblout /Users/keith/Documents/NLM-Postdoc/GutFunDev/GutFun_Tutorial/prokfunfind-tutorial/out/ebi-search/ebi.MGYG000000001.tblout --domtblout /Users/keith/Documents/NLM-Postdoc/GutFunDev/GutFun_Tutorial/prokfunfind-tutorial/out/ebi-search/ebi.MGYG000000001.domtblout --cpu 1 /Users/keith/Documents/NLM-Postdoc/GutFunDev/GutFun_Tutorial/prokfunfind-tutorial/queries/ebi-search/query.hmm /Users/keith/Documents/NLM-Postdoc/GutFunDev/GutFun_Tutorial/prokfunfind-tutorial/genomes/MGYG000000001.faa 
+# Current dir:     /Users/keith/Documents/NLM-Postdoc/GutFunDev/GutFun_Tutorial/prokfunfind-tutorial
+# Date:            Tue Aug  2 14:04:26 2022
+# [ok]

@@ -1,0 +1,228 @@
+{
+    "name": "Equol Gene Cluster",
+    "components": [
+        {
+            "name": "Equol Production Pathway",
+            "presence": "essential",
+            "components": [
+                {
+                    "queryID": "DZNR",
+                    "description": "Daidzein reductase",
+                    "presence": "essential",
+                    "genes": [
+                        "MGYG000000001_00145",
+                        "MGYG000000001_00286",
+                        "MGYG000000001_00395",
+                        "MGYG000000001_00448",
+                        "MGYG000000001_00876",
+                        "MGYG000000001_00941",
+                        "MGYG000000001_00992",
+                        "MGYG000000001_01065",
+                        "MGYG000000001_01341",
+                        "MGYG000000001_01364",
+                        "MGYG000000001_01385",
+                        "MGYG000000001_01438",
+                        "MGYG000000001_01662",
+                        "MGYG000000001_01919",
+                        "MGYG000000001_02011",
+                        "MGYG000000001_02644",
+                        "MGYG000000001_02665",
+                        "MGYG000000001_02849",
+                        "MGYG000000001_02921"
+                    ]
+                },
+                {
+                    "queryID": "DHDR",
+                    "description": "Dihydrodaidzein reductase",
+                    "presence": "essential",
+                    "genes": [
+                        "MGYG000000001_00397",
+                        "MGYG000000001_00600",
+                        "MGYG000000001_01165",
+                        "MGYG000000001_01621",
+                        "MGYG000000001_01946",
+                        "MGYG000000001_02538",
+                        "MGYG000000001_03154"
+                    ]
+                },
+                {
+                    "queryID": "THDR",
+                    "description": "Tetrahydrodaidzein reductase",
+                    "presence": "essential"
+                },
+                {
+                    "queryID": "DDRC",
+                    "description": "Dihydrodaidzein racemase",
+                    "presence": "essential"
+                }
+            ],
+            "completeness": {
+                "essential": 4,
+                "nonessential": 0,
+                "essential_presence": 2,
+                "nonessential_presence": 0
+            }
+        },
+        {
+            "name": "fix electron transport",
+            "presence": "nonessential",
+            "components": [
+                {
+                    "queryID": "FIXA",
+                    "description": "fixA homolog",
+                    "presence": "essential",
+                    "genes": [
+                        "MGYG000000001_02414"
+                    ]
+                },
+                {
+                    "queryID": "FIXB",
+                    "description": "fixB homolog",
+                    "presence": "essential",
+                    "genes": [
+                        "MGYG000000001_02415"
+                    ]
+                },
+                {
+                    "queryID": "FIXC",
+                    "description": "fixC homolog",
+                    "presence": "essential"
+                },
+                {
+                    "queryID": "FIXX",
+                    "description": "fixX homolog",
+                    "presence": "essential"
+                }
+            ],
+            "completeness": {
+                "essential": 4,
+                "nonessential": 0,
+                "essential_presence": 2,
+                "nonessential_presence": 0
+            }
+        },
+        {
+            "name": "hydrogenase maturase",
+            "presence": "nonessential",
+            "components": [
+                {
+                    "queryID": "NADO",
+                    "descrition": "NADH Oxidoreductase homolog",
+                    "presence": "nonessential",
+                    "genes": [
+                        "MGYG000000001_02127",
+                        "MGYG000000001_02610"
+                    ]
+                },
+                {
+                    "queryID": "HNDD",
+                    "description": "Putative NADP-reducing hydrogenase subunit hndD",
+                    "presence": "nonessential",
+                    "genes": [
+                        "MGYG000000001_00022",
+                        "MGYG000000001_02127",
+                        "MGYG000000001_02609"
+                    ]
+                },
+                {
+                    "queryID": "HYDE",
+                    "description": "putative hydrogenase maturase gene hydE",
+                    "presence": "essential",
+                    "genes": [
+                        "MGYG000000001_00232",
+                        "MGYG000000001_00239",
+                        "MGYG000000001_00294",
+                        "MGYG000000001_00350",
+                        "MGYG000000001_00358",
+                        "MGYG000000001_00414",
+                        "MGYG000000001_00846",
+                        "MGYG000000001_00999",
+                        "MGYG000000001_01306",
+                        "MGYG000000001_01332",
+                        "MGYG000000001_01351",
+                        "MGYG000000001_01522",
+                        "MGYG000000001_01591",
+                        "MGYG000000001_01666",
+                        "MGYG000000001_01872",
+                        "MGYG000000001_02103",
+                        "MGYG000000001_02153",
+                        "MGYG000000001_02343",
+                        "MGYG000000001_02984",
+                        "MGYG000000001_03109",
+                        "MGYG000000001_03123",
+                        "MGYG000000001_03169"
+                    ]
+                },
+                {
+                    "queryID": "HYDG",
+                    "description": "putative hydrogenase maturase gene hydG",
+                    "presence": "essential",
+                    "genes": [
+                        "MGYG000000001_02485"
+                    ]
+                },
+                {
+                    "queryID": "HYDF",
+                    "description": "putative hydrogenase maturase gene hydF",
+                    "presence": "essential",
+                    "genes": [
+                        "MGYG000000001_00032",
+                        "MGYG000000001_00220",
+                        "MGYG000000001_00288",
+                        "MGYG000000001_00388",
+                        "MGYG000000001_00942",
+                        "MGYG000000001_01183",
+                        "MGYG000000001_01316",
+                        "MGYG000000001_01695",
+                        "MGYG000000001_02512",
+                        "MGYG000000001_02905"
+                    ]
+                }
+            ],
+            "completeness": {
+                "essential": 3,
+                "nonessential": 2,
+                "essential_presence": 3,
+                "nonessential_presence": 2
+            }
+        },
+        {
+            "name": "other genes",
+            "presence": "nonessential",
+            "components": [
+                {
+                    "queryID": "HYPO",
+                    "description": "Hypothetical Protein",
+                    "presence": "nonessential"
+                },
+                {
+                    "queryID": "DEVR",
+                    "description": "Putative devR transcriptional regulator",
+                    "presence": "essential",
+                    "genes": [
+                        "MGYG000000001_00163",
+                        "MGYG000000001_01059",
+                        "MGYG000000001_01190",
+                        "MGYG000000001_01275",
+                        "MGYG000000001_01672",
+                        "MGYG000000001_02087",
+                        "MGYG000000001_02482",
+                        "MGYG000000001_02541"
+                    ]
+                }
+            ],
+            "completeness": {
+                "essential": 1,
+                "nonessential": 1,
+                "essential_presence": 1,
+                "nonessential_presence": 0
+            }
+        }
+    ],
+    "completeness": {
+        "essential": 1,
+        "nonessential": 3,
+        "essential_presence": 0,
+        "nonessential_presence": 2
+    }
+}
