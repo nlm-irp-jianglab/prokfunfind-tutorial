@@ -34,7 +34,7 @@ DZNR                 -          MGYG000000001_02921  -            3.5e-20   59.3
 # Pipeline mode:   SCAN
 # Query file:      /Users/keith/Documents/NLM-Postdoc/GutFunDev/GutFun_Tutorial/prokfunfind-tutorial/genomes/MGYG000000001.faa
 # Target file:     /Users/keith/Documents/NLM-Postdoc/GutFunDev/GutFun_Tutorial/prokfunfind-tutorial/queries/ebi-search/query.hmm
-# Option settings: hmmscan -o /Users/keith/Documents/NLM-Postdoc/GutFunDev/GutFun_Tutorial/prokfunfind-tutorial/out/ebi-search/ebi.MGYG000000001.out --tblout /Users/keith/Documents/NLM-Postdoc/GutFunDev/GutFun_Tutorial/prokfunfind-tutorial/out/ebi-search/ebi.MGYG000000001.tblout --domtblout /Users/keith/Documents/NLM-Postdoc/GutFunDev/GutFun_Tutorial/prokfunfind-tutorial/out/ebi-search/ebi.MGYG000000001.domtblout --cpu 1 /Users/keith/Documents/NLM-Postdoc/GutFunDev/GutFun_Tutorial/prokfunfind-tutorial/queries/ebi-search/query.hmm /Users/keith/Documents/NLM-Postdoc/GutFunDev/GutFun_Tutorial/prokfunfind-tutorial/genomes/MGYG000000001.faa 
+# Option settings: hmmscan -o /Users/keith/Documents/NLM-Postdoc/GutFunDev/GutFun_Tutorial/prokfunfind-tutorial/precomputed-out/ebi-search/ebi.MGYG000000001.out --tblout /Users/keith/Documents/NLM-Postdoc/GutFunDev/GutFun_Tutorial/prokfunfind-tutorial/precomputed-out/ebi-search/ebi.MGYG000000001.tblout --domtblout /Users/keith/Documents/NLM-Postdoc/GutFunDev/GutFun_Tutorial/prokfunfind-tutorial/precomputed-out/ebi-search/ebi.MGYG000000001.domtblout --cpu 1 /Users/keith/Documents/NLM-Postdoc/GutFunDev/GutFun_Tutorial/prokfunfind-tutorial/queries/ebi-search/query.hmm /Users/keith/Documents/NLM-Postdoc/GutFunDev/GutFun_Tutorial/prokfunfind-tutorial/genomes/MGYG000000001.faa 
 # Current dir:     /Users/keith/Documents/NLM-Postdoc/GutFunDev/GutFun_Tutorial/prokfunfind-tutorial
-# Date:            Tue Aug  2 14:04:26 2022
+# Date:            Thu Aug 18 13:24:48 2022
 # [ok]

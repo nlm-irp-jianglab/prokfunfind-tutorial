@@ -1,16 +1,79 @@
 Gene_Name	Cluster_ID	Functions
-GCF_000478885.1_02267	GCF_000478885.1_1:Cl_0	Equol Gene Cluster/hydrogenase maturase/HYDF
-GCF_000478885.1_02268	GCF_000478885.1_1:Cl_0	Equol Gene Cluster/hydrogenase maturase/HYDG
-GCF_000478885.1_02269	GCF_000478885.1_1:Cl_0	Equol Gene Cluster/hydrogenase maturase/HYDE
-GCF_000478885.1_02270	GCF_000478885.1_1:Cl_0	Equol Gene Cluster/hydrogenase maturase/HNDD
-GCF_000478885.1_02271	GCF_000478885.1_1:Cl_0	Equol Gene Cluster/hydrogenase maturase/NADO
-GCF_000478885.1_02272	GCF_000478885.1_1:Cl_0	Equol Gene Cluster/fix electron transport/FIXX
-GCF_000478885.1_02273	GCF_000478885.1_1:Cl_0	Equol Gene Cluster/fix electron transport/FIXC
-GCF_000478885.1_02274	GCF_000478885.1_1:Cl_0	Equol Gene Cluster/Equol Production Pathway/DZNR
-GCF_000478885.1_02275	GCF_000478885.1_1:Cl_0	Equol Gene Cluster/other genes/HYPO
-GCF_000478885.1_02276	GCF_000478885.1_1:Cl_0	Equol Gene Cluster/Equol Production Pathway/DHDR
-GCF_000478885.1_02277	GCF_000478885.1_1:Cl_0	Equol Gene Cluster/Equol Production Pathway/THDR
-GCF_000478885.1_02278	GCF_000478885.1_1:Cl_0	Equol Gene Cluster/fix electron transport/FIXB
-GCF_000478885.1_02279	GCF_000478885.1_1:Cl_0	Equol Gene Cluster/fix electron transport/FIXA
-GCF_000478885.1_02280	GCF_000478885.1_1:Cl_0	Equol Gene Cluster/Equol Production Pathway/DDRC
-GCF_000478885.1_02281	GCF_000478885.1_1:Cl_0	Equol Gene Cluster/other genes/DEVR
+GCF_000478885.1_00128	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/other genes/HYPO
+GCF_000478885.1_00190	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/other genes/HYPO
+GCF_000478885.1_00203	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_00268	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_00285	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_00384	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_00456	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/DHDR
+GCF_000478885.1_00482	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/fix electron transport/FIXX
+GCF_000478885.1_00581	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_00618	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_00637	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_00718	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_00817	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_00834	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/hydrogenase maturase/HYDF
+GCF_000478885.1_00936	GCF_000478885.1_1:Cl_0	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_00938	GCF_000478885.1_1:Cl_0	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_00940	GCF_000478885.1_1:Cl_0	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_00950	GCF_000478885.1_1:Cl_1	Equol Gene Cluster/Equol Production Pathway/DZNR
+GCF_000478885.1_00954	GCF_000478885.1_1:Cl_1	Equol Gene Cluster/fix electron transport/FIXA
+GCF_000478885.1_00955	GCF_000478885.1_1:Cl_1	Equol Gene Cluster/fix electron transport/FIXB
+GCF_000478885.1_00964	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_00969	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/fix electron transport/FIXX
+GCF_000478885.1_01020	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_01033	GCF_000478885.1_1:Cl_2	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_01035	GCF_000478885.1_1:Cl_2	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_01036	GCF_000478885.1_1:Cl_2	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_01039	GCF_000478885.1_1:Cl_2	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_01248	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_01312	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/other genes/HYPO
+GCF_000478885.1_01416	GCF_000478885.1_1:Cl_3	Equol Gene Cluster/Equol Production Pathway/DHDR
+GCF_000478885.1_01419	GCF_000478885.1_1:Cl_3	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_01442	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_01473	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_01498	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_01526	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/other genes/HYPO
+GCF_000478885.1_01544	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_01592	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_01611	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_01622	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/other genes/DEVR
+GCF_000478885.1_01663	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_01674	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/other genes/HYPO
+GCF_000478885.1_01689	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_01706	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_01754	GCF_000478885.1_1:Cl_4	Equol Gene Cluster/Equol Production Pathway/DHDR
+GCF_000478885.1_01756	GCF_000478885.1_1:Cl_4	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_01774	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_01785	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/DHDR
+GCF_000478885.1_01821	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_01867	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/other genes/DEVR
+GCF_000478885.1_01879	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/DZNR
+GCF_000478885.1_01889	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_01897	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/other genes/HYPO
+GCF_000478885.1_01932	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_01959	GCF_000478885.1_1:Cl_5	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_01961	GCF_000478885.1_1:Cl_5	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_01988	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_01996	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_02056	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_02094	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_02148	GCF_000478885.1_1:Cl_NA	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_02161	GCF_000478885.1_1:Cl_6	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_02164	GCF_000478885.1_1:Cl_6	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_02165	GCF_000478885.1_1:Cl_6	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_02268	GCF_000478885.1_1:Cl_7	Equol Gene Cluster/hydrogenase maturase/HYDG
+GCF_000478885.1_02269	GCF_000478885.1_1:Cl_7	Equol Gene Cluster/hydrogenase maturase/HYDE
+GCF_000478885.1_02270	GCF_000478885.1_1:Cl_7	Equol Gene Cluster/hydrogenase maturase/HNDD
+GCF_000478885.1_02271	GCF_000478885.1_1:Cl_7	Equol Gene Cluster/hydrogenase maturase/NADO
+GCF_000478885.1_02272	GCF_000478885.1_1:Cl_7	Equol Gene Cluster/fix electron transport/FIXX
+GCF_000478885.1_02273	GCF_000478885.1_1:Cl_7	Equol Gene Cluster/fix electron transport/FIXC
+GCF_000478885.1_02274	GCF_000478885.1_1:Cl_7	Equol Gene Cluster/Equol Production Pathway/DZNR
+GCF_000478885.1_02276	GCF_000478885.1_1:Cl_7	Equol Gene Cluster/Equol Production Pathway/DHDR
+GCF_000478885.1_02277	GCF_000478885.1_1:Cl_7	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_02278	GCF_000478885.1_1:Cl_7	Equol Gene Cluster/fix electron transport/FIXB
+GCF_000478885.1_02279	GCF_000478885.1_1:Cl_7	Equol Gene Cluster/fix electron transport/FIXA
+GCF_000478885.1_02280	GCF_000478885.1_1:Cl_7	Equol Gene Cluster/Equol Production Pathway/DDRC
+GCF_000478885.1_02281	GCF_000478885.1_1:Cl_7	Equol Gene Cluster/other genes/DEVR
+GCF_000478885.1_02288	GCF_000478885.1_1:Cl_8	Equol Gene Cluster/Equol Production Pathway/THDR
+GCF_000478885.1_02289	GCF_000478885.1_1:Cl_8	Equol Gene Cluster/Equol Production Pathway/THDR

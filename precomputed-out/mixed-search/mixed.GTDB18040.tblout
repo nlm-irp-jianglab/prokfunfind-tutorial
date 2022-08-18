@@ -82,7 +82,7 @@ DEVR                 -          GCF_000478885.1_02290 -            8.9e-09   22.
 # Pipeline mode:   SCAN
 # Query file:      /Users/keith/Documents/NLM-Postdoc/GutFunDev/GutFun_Tutorial/prokfunfind-tutorial/genomes/GTDB18040.faa
 # Target file:     /Users/keith/Documents/NLM-Postdoc/GutFunDev/GutFun_Tutorial/prokfunfind-tutorial/queries/mixed-search/query.hmm
-# Option settings: hmmscan -o /Users/keith/Documents/NLM-Postdoc/GutFunDev/GutFun_Tutorial/prokfunfind-tutorial/out/mixed-search/mixed.GTDB18040.out --tblout /Users/keith/Documents/NLM-Postdoc/GutFunDev/GutFun_Tutorial/prokfunfind-tutorial/out/mixed-search/mixed.GTDB18040.tblout --domtblout /Users/keith/Documents/NLM-Postdoc/GutFunDev/GutFun_Tutorial/prokfunfind-tutorial/out/mixed-search/mixed.GTDB18040.domtblout --cpu 1 /Users/keith/Documents/NLM-Postdoc/GutFunDev/GutFun_Tutorial/prokfunfind-tutorial/queries/mixed-search/query.hmm /Users/keith/Documents/NLM-Postdoc/GutFunDev/GutFun_Tutorial/prokfunfind-tutorial/genomes/GTDB18040.faa 
+# Option settings: hmmscan -o /Users/keith/Documents/NLM-Postdoc/GutFunDev/GutFun_Tutorial/prokfunfind-tutorial/precomputed-out/mixed-search/mixed.GTDB18040.out --tblout /Users/keith/Documents/NLM-Postdoc/GutFunDev/GutFun_Tutorial/prokfunfind-tutorial/precomputed-out/mixed-search/mixed.GTDB18040.tblout --domtblout /Users/keith/Documents/NLM-Postdoc/GutFunDev/GutFun_Tutorial/prokfunfind-tutorial/precomputed-out/mixed-search/mixed.GTDB18040.domtblout --cpu 1 /Users/keith/Documents/NLM-Postdoc/GutFunDev/GutFun_Tutorial/prokfunfind-tutorial/queries/mixed-search/query.hmm /Users/keith/Documents/NLM-Postdoc/GutFunDev/GutFun_Tutorial/prokfunfind-tutorial/genomes/GTDB18040.faa 
 # Current dir:     /Users/keith/Documents/NLM-Postdoc/GutFunDev/GutFun_Tutorial/prokfunfind-tutorial
-# Date:            Wed Aug  3 16:10:25 2022
+# Date:            Thu Aug 18 13:23:58 2022
 # [ok]

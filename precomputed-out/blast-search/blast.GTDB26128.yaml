@@ -1,0 +1,217 @@
+name: Equol Gene Cluster
+components:
+- name: Equol Production Pathway
+  presence: essential
+  components:
+  - geneID: DZNR
+    description: Daidzein reductase
+    presence: essential
+    terms:
+    - id: K00219
+      method: kofamscan
+    genes:
+    - GCF_011405655.1_00451
+    - GCF_011405655.1_01428
+    - GCF_011405655.1_02135
+  - geneID: DHDR
+    description: Dihydrodaidzein reductase
+    presence: essential
+    terms:
+    - id: K18009
+      method: kofamscan
+    genes:
+    - GCF_011405655.1_00616
+    - GCF_011405655.1_00653
+    - GCF_011405655.1_01011
+    - GCF_011405655.1_01988
+  - geneID: THDR
+    description: Tetrahydrodaidzein reductase
+    presence: essential
+    terms:
+    - id: K00244
+      method: kofamscan
+    genes:
+    - GCF_011405655.1_00025
+    - GCF_011405655.1_00053
+    - GCF_011405655.1_00092
+    - GCF_011405655.1_00275
+    - GCF_011405655.1_00473
+    - GCF_011405655.1_00527
+    - GCF_011405655.1_00633
+    - GCF_011405655.1_00655
+    - GCF_011405655.1_00682
+    - GCF_011405655.1_00686
+    - GCF_011405655.1_00691
+    - GCF_011405655.1_00693
+    - GCF_011405655.1_00709
+    - GCF_011405655.1_00741
+    - GCF_011405655.1_00856
+    - GCF_011405655.1_00888
+    - GCF_011405655.1_00945
+    - GCF_011405655.1_00973
+    - GCF_011405655.1_01003
+    - GCF_011405655.1_01350
+    - GCF_011405655.1_01355
+    - GCF_011405655.1_01368
+    - GCF_011405655.1_01415
+    - GCF_011405655.1_01477
+    - GCF_011405655.1_01656
+    - GCF_011405655.1_01684
+    - GCF_011405655.1_01787
+    - GCF_011405655.1_01814
+    - GCF_011405655.1_01853
+    - GCF_011405655.1_01933
+    - GCF_011405655.1_01935
+    - GCF_011405655.1_01944
+    - GCF_011405655.1_02080
+    - GCF_011405655.1_02255
+    - GCF_011405655.1_02314
+    - GCF_011405655.1_02334
+    - GCF_011405655.1_02361
+    - GCF_011405655.1_02419
+    - GCF_011405655.1_02434
+    - GCF_011405655.1_02435
+  - geneID: DDRC
+    description: Dihydrodaidzein racemase
+    presence: essential
+    terms:
+    - id: K05606
+      method: kofamscan
+    genes:
+    - GCF_000478885.1_02280
+  completeness:
+    essential: 4
+    nonessential: 0
+    essential_presence: 3
+    nonessential_presence: 0
+- name: fix electron transport
+  presence: nonessential
+  components:
+  - geneID: FIXA
+    description: fixA homolog
+    presence: essential
+    terms:
+    - id: K03521
+      method: kofamscan
+    genes:
+    - GCF_011405655.1_00363
+    - GCF_011405655.1_01424
+    - GCF_011405655.1_01663
+  - geneID: FIXB
+    description: fixB homolog
+    presence: essential
+    terms:
+    - id: K03522
+      method: kofamscan
+    genes:
+    - GCF_011405655.1_00364
+    - GCF_011405655.1_01423
+    - GCF_011405655.1_01662
+  - geneID: FIXC
+    description: fixC homolog
+    presence: essential
+    terms:
+    - id: K00313
+      method: kofamscan
+    genes:
+    - GCF_011405655.1_00352
+    - GCF_011405655.1_01661
+  - geneID: FIXX
+    description: fixX homolog
+    presence: essential
+    terms:
+    - id: K03855
+      method: kofamscan
+    genes:
+    - GCF_011405655.1_00353
+    - GCF_011405655.1_01510
+    - GCF_011405655.1_01660
+    - GCF_011405655.1_01922
+    - GCF_011405655.1_02409
+  completeness:
+    essential: 4
+    nonessential: 0
+    essential_presence: 4
+    nonessential_presence: 0
+- name: hydrogenase maturase
+  presence: nonessential
+  components:
+  - geneID: NADO
+    descrition: NADH Oxidoreductase homolog
+    presence: nonessential
+    terms:
+    - id: K15022
+      method: kofamscan
+    genes:
+    - GCF_011405655.1_00078
+  - geneID: HNDD
+    description: Putative NADP-reducing hydrogenase subunit hndD
+    presence: nonessential
+    terms:
+    - id: K18332
+      method: kofamscan
+    genes:
+    - GCF_011405655.1_00077
+  - geneID: HYDE
+    description: putative hydrogenase maturase gene hydE
+    presence: essential
+    terms:
+    - id: K01012
+      method: kofamscan
+    genes:
+    - GCF_011405655.1_00076
+  - geneID: HYDG
+    description: putative hydrogenase maturase gene hydG
+    presence: essential
+    terms:
+    - id: K03150
+      method: kofamscan
+    genes:
+    - GCF_011405655.1_00075
+  - geneID: HYDF
+    description: putative hydrogenase maturase gene hydF
+    presence: essential
+    terms:
+    - id: K03977
+      method: kofamscan
+    genes:
+    - GCF_011405655.1_01541
+  completeness:
+    essential: 3
+    nonessential: 2
+    essential_presence: 3
+    nonessential_presence: 2
+- name: other genes
+  presence: nonessential
+  components:
+  - geneID: HYPO
+    description: Hypothetical Protein
+    presence: nonessential
+    terms:
+    - id: K02004
+      method: kofamscan
+    genes:
+    - GCF_011405655.1_00299
+    - GCF_011405655.1_00382
+    - GCF_011405655.1_00724
+    - GCF_011405655.1_00874
+    - GCF_011405655.1_01116
+    - GCF_011405655.1_02148
+  - geneID: DEVR
+    description: Putative devR transcriptional regulator
+    presence: essential
+    terms:
+    - id: K07695
+      method: kofamscan
+    genes:
+    - GCF_011405655.1_00771
+  completeness:
+    essential: 1
+    nonessential: 1
+    essential_presence: 1
+    nonessential_presence: 1
+completeness:
+  essential: 1
+  nonessential: 3
+  essential_presence: 0
+  nonessential_presence: 3
