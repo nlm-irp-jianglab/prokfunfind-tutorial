@@ -1,0 +1,129 @@
+---
+main:
+  cluster_tool: DBSCAN
+  system_file: systems.json
+  search_terms: search-terms.tsv
+  faa_suffix: .faa
+  gff_suffix: .gff
+  fna_suffix: .fna
+DBSCAN:
+  cluster_eps: 4
+  cluster_min_samples: 2
+hmmer:
+  hmmer_query: query.hmm
+  hmmer_exec: hmmscan
+  hmmer_threads: 1
+  evalue: 1e-3
+blast:
+  blast_query: query.fa
+  blast_exec: blastp
+  blast_threads: 1
+  evalue: 1e-3
+kofamscan:
+  annot_suffix: .kofam.tsv
+  threshold: 0.5
+emapper:
+  annot_suffix: .emapper.annotations
+interproscan:
+  annot_suffix: _InterProScan.tsv
+
+
+---
+name: Equol Gene Cluster
+components:
+- name: Equol Production Pathway
+  presence: essential
+  components:
+  - queryID: DZNR
+    description: Daidzein reductase
+    presence: essential
+    terms:
+    - id: DZNR
+      method: hmmer
+  - queryID: DHDR
+    description: Dihydrodaidzein reductase
+    presence: essential
+    terms:
+    - id: GCF_000422625.1_00043
+      method: blast
+  - queryID: THDR
+    description: Tetrahydrodaidzein reductase
+    presence: essential
+    terms:
+    - id: COG1053
+      method: emapper
+  - queryID: DDRC
+    description: Dihydrodaidzein racemase
+    presence: essential
+    terms:
+    - id: DDRC
+      method: hmmer
+- name: fix electron transport
+  presence: nonessential
+  components:
+  - queryID: FIXA
+    description: fixA homolog
+    presence: essential
+    terms:
+    - id: COG2086
+      method: emapper
+  - queryID: FIXB
+    description: fixB homolog
+    presence: essential
+    terms:
+    - id: COG2025
+      method: emapper
+  - queryID: FIXC
+    description: fixC homolog
+    presence: essential
+    terms:
+    - id: K00313
+      method: kofamscan
+  - queryID: FIXX
+    description: fixX homolog
+    presence: essential
+    terms:
+    - id: K03855
+      method: kofamscan
+- name: hydrogenase maturase
+  presence: nonessential
+  components:
+  - queryID: NADO
+    descrition: NADH Oxidoreductase homolog
+    presence: nonessential
+    terms:
+    - id: COG1894
+      method: emapper
+  - queryID: HNDD
+    description: Putative NADP-reducing hydrogenase subunit hndD
+    presence: nonessential
+    terms:
+    - id: PF02256
+      method: interproscan
+  - queryID: HYDE
+    description: putative hydrogenase maturase gene hydE
+    presence: essential
+    terms:
+    - id: PF04055
+      method: interproscan
+  - queryID: HYDG
+    description: putative hydrogenase maturase gene hydG
+    presence: essential
+    terms:
+    - id: PTHR43583
+      method: interproscan
+  - queryID: HYDF
+    description: putative hydrogenase maturase gene hydF
+    presence: essential
+    terms:
+    - id: PF01926
+      method: interproscan
+- name: other genes
+  presence: nonessential
+  components:
+  - queryID: DEVR
+    description: Putative devR transcriptional regulator
+    presence: essential
+    terms:
+    - id: DEVR
+      method: hmmer

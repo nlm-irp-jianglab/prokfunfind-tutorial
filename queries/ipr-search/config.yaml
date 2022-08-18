@@ -1,0 +1,112 @@
+---
+main:
+  cluster_tool: DBSCAN
+  faa_suffix: .faa
+  gff_suffix: .gff
+  fna_suffix: .fna
+DBSCAN:
+  cluster_eps: 4
+  cluster_min_samples: 2
+interproscan:
+  annot_suffix: _InterProScan.tsv
+
+
+---
+name: Equol Gene Cluster
+components:
+- name: Equol Production Pathway
+  presence: essential
+  components:
+  - queryID: DZNR
+    description: Daidzein reductase
+    presence: essential
+    terms:
+    - id: PTHR42917
+      method: interproscan
+  - queryID: DHDR
+    description: Dihydrodaidzein reductase
+    presence: essential
+    terms:
+    - id: PF13561
+      method: interproscan
+  - queryID: THDR
+    description: Tetrahydrodaidzein reductase
+    presence: essential
+    terms:
+    - id: PF00890
+      method: interproscan
+  - queryID: DDRC
+    description: Dihydrodaidzein racemase
+    presence: essential
+    terms:
+    - id: PF13669
+      method: interproscan
+- name: fix electron transport
+  presence: nonessential
+  components:
+  - queryID: FIXA
+    description: fixA homolog
+    presence: essential
+    terms:
+    - id: PF01012
+      method: interproscan
+  - queryID: FIXB
+    description: fixB homolog
+    presence: essential
+    terms:
+    - id: PF00766
+      method: interproscan
+  - queryID: FIXC
+    description: fixC homolog
+    presence: essential
+    terms:
+    - id: PF03486
+      method: interproscan
+  - queryID: FIXX
+    description: fixX homolog
+    presence: essential
+    terms:
+    - id: PTHR43082
+      method: interproscan
+- name: hydrogenase maturase
+  presence: nonessential
+  components:
+  - queryID: NADO
+    descrition: NADH Oxidoreductase homolog
+    presence: nonessential
+    terms:
+    - id: PF07992
+      method: interproscan
+  - queryID: HNDD
+    description: Putative NADP-reducing hydrogenase subunit hndD
+    presence: nonessential
+    terms:
+    - id: PF02256
+      method: interproscan
+  - queryID: HYDE
+    description: putative hydrogenase maturase gene hydE
+    presence: essential
+    terms:
+    - id: PF04055
+      method: interproscan
+  - queryID: HYDG
+    description: putative hydrogenase maturase gene hydG
+    presence: essential
+    terms:
+    - id: PTHR43583
+      method: interproscan
+  - queryID: HYDF
+    description: putative hydrogenase maturase gene hydF
+    presence: essential
+    terms:
+    - id: PF01926
+      method: interproscan
+- name: other genes
+  presence: nonessential
+  components:
+  - queryID: DEVR
+    description: Putative devR transcriptional regulator
+    presence: essential
+    terms:
+    - id: PF00196
+      method: interproscan

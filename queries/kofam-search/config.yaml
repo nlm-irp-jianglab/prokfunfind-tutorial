@@ -1,0 +1,118 @@
+---
+main:
+  cluster_tool: DBSCAN
+  faa_suffix: .faa
+  gff_suffix: .gff
+  fna_suffix: .fna
+DBSCAN:
+  cluster_eps: 4
+  cluster_min_samples: 2
+kofamscan:
+  annot_suffix: .kofam.tsv
+  threshold: 0.5
+
+---
+name: Equol Gene Cluster
+components:
+- name: Equol Production Pathway
+  presence: essential
+  components:
+  - queryID: DZNR
+    description: Daidzein reductase
+    presence: essential
+    terms:
+    - id: K00219
+      method: kofamscan
+  - queryID: DHDR
+    description: Dihydrodaidzein reductase
+    presence: essential
+    terms:
+    - id: K18009
+      method: kofamscan
+  - queryID: THDR
+    description: Tetrahydrodaidzein reductase
+    presence: essential
+    terms:
+    - id: K00244
+      method: kofamscan
+  - queryID: DDRC
+    description: Dihydrodaidzein racemase
+    presence: essential
+    terms:
+    - id: K05606
+      method: kofamscan
+- name: fix electron transport
+  presence: nonessential
+  components:
+  - queryID: FIXA
+    description: fixA homolog
+    presence: essential
+    terms:
+    - id: K03521
+      method: kofamscan
+  - queryID: FIXB
+    description: fixB homolog
+    presence: essential
+    terms:
+    - id: K03522
+      method: kofamscan
+  - queryID: FIXC
+    description: fixC homolog
+    presence: essential
+    terms:
+    - id: K00313
+      method: kofamscan
+  - queryID: FIXX
+    description: fixX homolog
+    presence: essential
+    terms:
+    - id: K03855
+      method: kofamscan
+- name: hydrogenase maturase
+  presence: nonessential
+  components:
+  - queryID: NADO
+    descrition: NADH Oxidoreductase homolog
+    presence: nonessential
+    terms:
+    - id: K15022
+      method: kofamscan
+  - queryID: HNDD
+    description: Putative NADP-reducing hydrogenase subunit hndD
+    presence: nonessential
+    terms:
+    - id: K18332
+      method: kofamscan
+  - queryID: HYDE
+    description: putative hydrogenase maturase gene hydE
+    presence: essential
+    terms:
+    - id: K01012
+      method: kofamscan
+  - queryID: HYDG
+    description: putative hydrogenase maturase gene hydG
+    presence: essential
+    terms:
+    - id: K03150
+      method: kofamscan
+  - queryID: HYDF
+    description: putative hydrogenase maturase gene hydF
+    presence: essential
+    terms:
+    - id: K03977
+      method: kofamscan
+- name: other genes
+  presence: nonessential
+  components:
+  - queryID: HYPO
+    description: Hypothetical Protein
+    presence: nonessential
+    terms:
+    - id: K02004
+      method: kofamscan
+  - queryID: DEVR
+    description: Putative devR transcriptional regulator
+    presence: essential
+    terms:
+    - id: K07695
+      method: kofamscan
