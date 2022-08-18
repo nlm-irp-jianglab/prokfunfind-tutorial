@@ -19,25 +19,25 @@ components:
 - name: Equol Production Pathway
   presence: essential
   components:
-  - queryID: DZNR
+  - geneID: DZNR
     description: Daidzein reductase
     presence: essential
     terms:
     - id: DZNR
       method: hmmer
-  - queryID: DHDR
+  - geneID: DHDR
     description: Dihydrodaidzein reductase
     presence: essential
     terms:
     - id: DHDR
       method: hmmer
-  - queryID: THDR
+  - geneID: THDR
     description: Tetrahydrodaidzein reductase
     presence: essential
     terms:
     - id: THDR
       method: hmmer
-  - queryID: DDRC
+  - geneID: DDRC
     description: Dihydrodaidzein racemase
     presence: essential
     terms:
@@ -46,25 +46,25 @@ components:
 - name: fix electron transport
   presence: nonessential
   components:
-  - queryID: FIXA
+  - geneID: FIXA
     description: fixA homolog
     presence: essential
     terms:
     - id: FIXA
       method: hmmer
-  - queryID: FIXB
+  - geneID: FIXB
     description: fixB homolog
     presence: essential
     terms:
     - id: FIXB
       method: hmmer
-  - queryID: FIXC
+  - geneID: FIXC
     description: fixC homolog
     presence: essential
     terms:
     - id: FIXC
       method: hmmer
-  - queryID: FIXX
+  - geneID: FIXX
     description: fixX homolog
     presence: essential
     terms:
@@ -73,31 +73,31 @@ components:
 - name: hydrogenase maturase
   presence: nonessential
   components:
-  - queryID: NADO
+  - geneID: NADO
     descrition: NADH Oxidoreductase homolog
     presence: nonessential
     terms:
     - id: NADO
       method: hmmer
-  - queryID: HNDD
+  - geneID: HNDD
     description: Putative NADP-reducing hydrogenase subunit hndD
     presence: nonessential
     terms:
     - id: HNDD
       method: hmmer
-  - queryID: HYDE
+  - geneID: HYDE
     description: putative hydrogenase maturase gene hydE
     presence: essential
     terms:
     - id: HYDE
       method: hmmer
-  - queryID: HYDG
+  - geneID: HYDG
     description: putative hydrogenase maturase gene hydG
     presence: essential
     terms:
     - id: HYDG
       method: hmmer
-  - queryID: HYDF
+  - geneID: HYDF
     description: putative hydrogenase maturase gene hydF
     presence: essential
     terms:
@@ -106,13 +106,13 @@ components:
 - name: other genes
   presence: nonessential
   components:
-  - queryID: HYPO
+  - geneID: HYPO
     description: Hypothetical Protein
     presence: nonessential
     terms:
     - id: HYPO
       method: hmmer
-  - queryID: DEVR
+  - geneID: DEVR
     description: Putative devR transcriptional regulator
     presence: essential
     terms:

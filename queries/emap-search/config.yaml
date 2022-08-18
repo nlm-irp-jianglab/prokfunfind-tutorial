@@ -17,28 +17,28 @@ components:
 - name: Equol Production Pathway
   presence: essential
   components:
-  - queryID: DZNR
+  - geneID: DZNR
     description: Daidzein reductase
     presence: essential
     terms:
     - id: COG1902
       method: emapper
       evalue: 1e-100
-  - queryID: DHDR
+  - geneID: DHDR
     description: Dihydrodaidzein reductase
     presence: essential
     terms:
     - id: COG1028
       method: emapper
       evalue: 1e-200
-  - queryID: THDR
+  - geneID: THDR
     description: Tetrahydrodaidzein reductase
     presence: essential
     terms:
     - id: COG1053
       method: emapper
       evalue: 1e-100
-  - queryID: DDRC
+  - geneID: DDRC
     description: Dihydrodaidzein racemase
     presence: essential
     terms:
@@ -48,28 +48,28 @@ components:
 - name: fix electron transport
   presence: nonessential
   components:
-  - queryID: FIXA
+  - geneID: FIXA
     description: fixA homolog
     presence: essential
     terms:
     - id: COG2086
       method: emapper
       evalue: 1e-150
-  - queryID: FIXB
+  - geneID: FIXB
     description: fixB homolog
     presence: essential
     terms:
     - id: COG2025
       method: emapper
       evalue: 1e-150
-  - queryID: FIXC
+  - geneID: FIXC
     description: fixC homolog
     presence: essential
     terms:
     - id: COG0644
       method: emapper
       evalue: 1e-100
-  - queryID: FIXX
+  - geneID: FIXX
     description: fixX homolog
     presence: essential
     terms:
@@ -79,35 +79,35 @@ components:
 - name: hydrogenase maturase
   presence: nonessential
   components:
-  - queryID: NADO
+  - geneID: NADO
     descrition: NADH Oxidoreductase homolog
     presence: nonessential
     terms:
     - id: COG1894
       method: emapper
       evalue: 1e-250
-  - queryID: HNDD
+  - geneID: HNDD
     description: Putative NADP-reducing hydrogenase subunit hndD
     presence: nonessential
     terms:
     - id: COG3383
       method: emapper
       evalue: 1e-100
-  - queryID: HYDE
+  - geneID: HYDE
     description: putative hydrogenase maturase gene hydE
     presence: essential
     terms:
     - id: 2HSHP
       method: emapper
       evalue: 1e-200
-  - queryID: HYDG
+  - geneID: HYDG
     description: putative hydrogenase maturase gene hydG
     presence: essential
     terms:
     - id: 2IKFZ
       method: emapper
       evalue: 1e-100
-  - queryID: HYDF
+  - geneID: HYDF
     description: putative hydrogenase maturase gene hydF
     presence: essential
     terms:
@@ -117,14 +117,14 @@ components:
 - name: other genes
   presence: nonessential
   components:
-  - queryID: HYPO
+  - geneID: HYPO
     description: Hypothetical Protein
     presence: nonessential
     terms:
     - id: 29K0U
       method: emapper
       evalue: 1e-100
-  - queryID: DEVR
+  - geneID: DEVR
     description: Putative devR transcriptional regulator
     presence: essential
     terms:

@@ -34,25 +34,25 @@ components:
 - name: Equol Production Pathway
   presence: essential
   components:
-  - queryID: DZNR
+  - geneID: DZNR
     description: Daidzein reductase
     presence: essential
     terms:
     - id: DZNR
       method: hmmer
-  - queryID: DHDR
+  - geneID: DHDR
     description: Dihydrodaidzein reductase
     presence: essential
     terms:
     - id: GCF_000422625.1_00043
       method: blast
-  - queryID: THDR
+  - geneID: THDR
     description: Tetrahydrodaidzein reductase
     presence: essential
     terms:
     - id: COG1053
       method: emapper
-  - queryID: DDRC
+  - geneID: DDRC
     description: Dihydrodaidzein racemase
     presence: essential
     terms:
@@ -61,25 +61,25 @@ components:
 - name: fix electron transport
   presence: nonessential
   components:
-  - queryID: FIXA
+  - geneID: FIXA
     description: fixA homolog
     presence: essential
     terms:
     - id: COG2086
       method: emapper
-  - queryID: FIXB
+  - geneID: FIXB
     description: fixB homolog
     presence: essential
     terms:
     - id: COG2025
       method: emapper
-  - queryID: FIXC
+  - geneID: FIXC
     description: fixC homolog
     presence: essential
     terms:
     - id: K00313
       method: kofamscan
-  - queryID: FIXX
+  - geneID: FIXX
     description: fixX homolog
     presence: essential
     terms:
@@ -88,31 +88,31 @@ components:
 - name: hydrogenase maturase
   presence: nonessential
   components:
-  - queryID: NADO
+  - geneID: NADO
     descrition: NADH Oxidoreductase homolog
     presence: nonessential
     terms:
     - id: COG1894
       method: emapper
-  - queryID: HNDD
+  - geneID: HNDD
     description: Putative NADP-reducing hydrogenase subunit hndD
     presence: nonessential
     terms:
     - id: PF02256
       method: interproscan
-  - queryID: HYDE
+  - geneID: HYDE
     description: putative hydrogenase maturase gene hydE
     presence: essential
     terms:
     - id: PF04055
       method: interproscan
-  - queryID: HYDG
+  - geneID: HYDG
     description: putative hydrogenase maturase gene hydG
     presence: essential
     terms:
     - id: PTHR43583
       method: interproscan
-  - queryID: HYDF
+  - geneID: HYDF
     description: putative hydrogenase maturase gene hydF
     presence: essential
     terms:
@@ -121,7 +121,7 @@ components:
 - name: other genes
   presence: nonessential
   components:
-  - queryID: DEVR
+  - geneID: DEVR
     description: Putative devR transcriptional regulator
     presence: essential
     terms:
