@@ -1,0 +1,59 @@
+---
+main:
+  cluster_tool: DBSCAN
+  faa_suffix: .faa
+  gff_suffix: .gff
+  fna_suffix: .fna
+DBSCAN:
+  cluster_eps: 4
+  cluster_min_samples: 2
+hmmer:
+  hmmer_query: query.hmm
+  hmmer_exec: hmmscan
+  hmmer_threads: 1
+  evalue: 1e-3
+blast:
+  blast_query: query.fa
+  blast_exec: blastp
+  blast_threads: 1
+  evalue: 1e-3
+kofamscan:
+  annot_suffix: .kofam.tsv
+  threshold: 0.5
+emapper:
+  annot_suffix: .emapper.annotations
+interproscan:
+  annot_suffix: _InterProScan.tsv
+
+---
+name: Equol Gene Cluster
+components:
+- name: Equol Production Pathway
+  presence: essential
+  components:
+  - geneID: DZNR
+    description: Daidzein reductase
+    presence: essential
+    terms:
+    - id: DZNR
+      method: hmmer
+  - geneID: DHDR
+    description: Dihydrodaidzein reductase
+    presence: essential
+    terms:
+    - id: GCF_000422625.1_00043
+      method: blast
+      ident_pct: 90
+  - geneID: THDR
+    description: Tetrahydrodaidzein reductase
+    presence: essential
+    terms:
+    - id: COG1053
+      method: emapper
+      evalue: 0.001
+  - geneID: DDRC
+    description: Dihydrodaidzein racemase
+    presence: essential
+    terms:
+    - id: DDRC
+      method: hmmer
