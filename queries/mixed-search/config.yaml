@@ -10,12 +10,12 @@ DBSCAN:
   cluster_eps: 4
   cluster_min_samples: 2
 hmmer:
-  hmmer_query: query.hmm
+  hmmer_query: ./query.hmm
   hmmer_exec: hmmscan
   hmmer_threads: 1
   evalue: 1e-3
 blast:
-  blast_query: query.fa
+  blast_query: ./query.fa
   blast_exec: blastp
   blast_threads: 1
   evalue: 1e-3

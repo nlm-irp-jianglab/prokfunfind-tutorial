@@ -8,7 +8,7 @@ DBSCAN:
   cluster_eps: 4
   cluster_min_samples: 2
 hmmer:
-  hmmer_query: query.hmm
+  hmmer_query: ./query.hmm
   hmmer_exec: hmmscan
   hmmer_threads: 1
   evalue: 1e-3

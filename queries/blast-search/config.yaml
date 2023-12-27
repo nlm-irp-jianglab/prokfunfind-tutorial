@@ -8,7 +8,7 @@ DBSCAN:
   cluster_eps: 4
   cluster_min_samples: 2
 blast:
-  blast_query: genes.fa
+  blast_query: ./genes.fa
   blast_exec: blastp
   blast_threads: 1
   evalue: 1e-3
