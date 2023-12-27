@@ -1,0 +1,166 @@
+name: Equol Gene Cluster
+components:
+- name: Equol Production Pathway
+  presence: essential
+  components:
+  - geneID: DZNR
+    description: Daidzein reductase
+    presence: essential
+    terms:
+    - id: COG1902
+      method: bakta
+  - geneID: DHDR
+    description: Dihydrodaidzein reductase
+    presence: essential
+    terms:
+    - id: COG1028
+      method: prokka
+    genes:
+    - GCF_000478885.1_01785
+  - geneID: THDR
+    description: Tetrahydrodaidzein reductase
+    presence: essential
+    terms:
+    - id: COG1053
+      method: prokka
+    genes:
+    - GCF_000478885.1_00203
+    - GCF_000478885.1_00384
+    - GCF_000478885.1_00581
+    - GCF_000478885.1_00637
+    - GCF_000478885.1_00938
+    - GCF_000478885.1_01033
+    - GCF_000478885.1_01035
+    - GCF_000478885.1_01036
+    - GCF_000478885.1_01039
+    - GCF_000478885.1_01248
+    - GCF_000478885.1_01442
+    - GCF_000478885.1_01592
+    - GCF_000478885.1_01663
+    - GCF_000478885.1_01689
+    - GCF_000478885.1_01706
+    - GCF_000478885.1_01756
+    - GCF_000478885.1_01889
+    - GCF_000478885.1_01932
+    - GCF_000478885.1_01988
+    - GCF_000478885.1_02094
+    - GCF_000478885.1_02148
+    - GCF_000478885.1_02165
+    - GCF_000478885.1_02277
+  - geneID: DDRC
+    description: Dihydrodaidzein racemase
+    presence: essential
+    terms:
+    - id: COG0346
+      method: prokka
+  completeness:
+    essential: 4
+    nonessential: 0
+    essential_presence: 2
+    nonessential_presence: 0
+- name: fix electron transport
+  presence: nonessential
+  components:
+  - geneID: FIXA
+    description: fixA homolog
+    presence: essential
+    terms:
+    - id: COG2086
+      method: bakta
+  - geneID: FIXB
+    description: fixB homolog
+    presence: essential
+    terms:
+    - id: K03522
+      method: bakta
+  - geneID: FIXC
+    description: fixC homolog
+    presence: essential
+    terms:
+    - id: COG0644
+      method: prokka
+    genes:
+    - GCF_000478885.1_02273
+  - geneID: FIXX
+    description: fixX homolog
+    presence: essential
+    terms:
+    - id: COG2440
+      method: bakta
+    genes:
+    - GCF_000478885.1_02272
+  completeness:
+    essential: 4
+    nonessential: 0
+    essential_presence: 2
+    nonessential_presence: 0
+- name: hydrogenase maturase
+  presence: nonessential
+  components:
+  - geneID: NADO
+    descrition: NADH Oxidoreductase homolog
+    presence: nonessential
+    terms:
+    - id: COG1894
+      method: prokka
+  - geneID: HNDD
+    description: Putative NADP-reducing hydrogenase subunit hndD
+    presence: nonessential
+    terms:
+    - id: COG3383
+      method: bakta
+    genes:
+    - GCF_000478885.1_02270
+  - geneID: HYDE
+    description: putative hydrogenase maturase gene hydE
+    presence: essential
+    terms:
+    - id: K01012
+      method: bakta
+  - geneID: HYDG
+    description: putative hydrogenase maturase gene hydG
+    presence: essential
+    terms:
+    - id: K03150
+      method: bakta
+  - geneID: HYDF
+    description: putative hydrogenase maturase gene hydF
+    presence: essential
+    terms:
+    - id: COG1160
+      method: prokka
+    genes:
+    - GCF_000478885.1_00834
+  completeness:
+    essential: 3
+    nonessential: 2
+    essential_presence: 1
+    nonessential_presence: 1
+- name: other genes
+  presence: nonessential
+  components:
+  - geneID: HYPO
+    description: Hypothetical Protein
+    presence: nonessential
+    terms:
+    - id: K02004
+      method: bakta
+  - geneID: DEVR
+    description: Putative devR transcriptional regulator
+    presence: essential
+    terms:
+    - id: COG2197
+      method: prokka
+    genes:
+    - GCF_000478885.1_01867
+    - GCF_000478885.1_02281
+  completeness:
+    essential: 1
+    nonessential: 1
+    essential_presence: 1
+    nonessential_presence: 0
+completeness:
+  essential: 1
+  nonessential: 3
+  essential_presence: 0
+  nonessential_presence: 1

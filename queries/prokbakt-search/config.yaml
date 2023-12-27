@@ -1,0 +1,119 @@
+---
+main:
+  cluster_tool: DBSCAN
+  faa_suffix: .faa
+  gff_suffix: .gff
+  fna_suffix: .fna
+DBSCAN:
+  cluster_eps: 4
+  cluster_min_samples: 2
+prokka:
+  annot_suffix: .prokka.tsv
+bakta: 
+  annot_suffix: .bakta.tsv
+
+---
+name: Equol Gene Cluster
+components:
+- name: Equol Production Pathway
+  presence: essential
+  components:
+  - geneID: DZNR
+    description: Daidzein reductase
+    presence: essential
+    terms:
+    - id: COG1902
+      method: bakta
+  - geneID: DHDR
+    description: Dihydrodaidzein reductase
+    presence: essential
+    terms:
+    - id: COG1028
+      method: prokka
+  - geneID: THDR
+    description: Tetrahydrodaidzein reductase
+    presence: essential
+    terms:
+    - id: COG1053
+      method: prokka
+  - geneID: DDRC
+    description: Dihydrodaidzein racemase
+    presence: essential
+    terms:
+    - id: COG0346
+      method: prokka
+- name: fix electron transport
+  presence: nonessential
+  components:
+  - geneID: FIXA
+    description: fixA homolog
+    presence: essential
+    terms:
+    - id: COG2086
+      method: bakta
+  - geneID: FIXB
+    description: fixB homolog
+    presence: essential
+    terms:
+    - id: K03522
+      method: bakta
+  - geneID: FIXC
+    description: fixC homolog
+    presence: essential
+    terms:
+    - id: COG0644
+      method: prokka
+  - geneID: FIXX
+    description: fixX homolog
+    presence: essential
+    terms:
+    - id: COG2440
+      method: bakta
+- name: hydrogenase maturase
+  presence: nonessential
+  components:
+  - geneID: NADO
+    descrition: NADH Oxidoreductase homolog
+    presence: nonessential
+    terms:
+    - id: COG1894
+      method: prokka
+  - geneID: HNDD
+    description: Putative NADP-reducing hydrogenase subunit hndD
+    presence: nonessential
+    terms:
+    - id: COG3383
+      method: bakta
+  - geneID: HYDE
+    description: putative hydrogenase maturase gene hydE
+    presence: essential
+    terms:
+    - id: K01012
+      method: bakta
+  - geneID: HYDG
+    description: putative hydrogenase maturase gene hydG
+    presence: essential
+    terms:
+    - id: K03150
+      method: bakta
+  - geneID: HYDF
+    description: putative hydrogenase maturase gene hydF
+    presence: essential
+    terms:
+    - id: COG1160
+      method: prokka
+- name: other genes
+  presence: nonessential
+  components:
+  - geneID: HYPO
+    description: Hypothetical Protein
+    presence: nonessential
+    terms:
+    - id: K02004
+      method: bakta
+  - geneID: DEVR
+    description: Putative devR transcriptional regulator
+    presence: essential
+    terms:
+    - id: COG2197
+      method: prokka
